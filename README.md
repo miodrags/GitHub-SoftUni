@@ -1,1 +1,1 @@
-Ovo je tekst koji se nalazi u README fajlu.
+Ovde se nalazi README fajl.
